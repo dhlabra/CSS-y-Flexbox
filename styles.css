@@ -23,6 +23,6 @@ body, ul {
     text-decoration: none;
     color: black;
 
-.barra-navegacion a:hover {
-    color: blue;
+.barra-navegacion:hover {
+    color: solidblue;
 }
